@@ -1,0 +1,32 @@
+<root>
+	<exit lat="34.012321" lon="-118.497329" stop="SR 1 north (Pacific Coast Highway)– Oxnard,"></exit>
+	<exit lat="34.012463" lon="-118.490446" stop="4th Street, 5th Street"></exit>
+	<exit lat="34.021113" lon="-118.477301" stop="20th Street "></exit>
+	<exit lat="34.027374" lon="-118.457220" stop="Centinela Avenue:"></exit>
+	<exit lat="34.028566" lon="-118.448508" stop="Bundy Drive:"></exit>
+	<exit lat="34.030027" lon="-118.441437" stop="I-405 (San Diego Freeway) – Sacramento, LAX Airport, Long Beach"></exit>
+	<exit lat="34.031673" lon="-118.418809" stop="National Boulevard"></exit>
+	<exit lat="34.034588" lon="-118.384323" stop="La Cienega Boulevard, Venice Boulevard (SR 187 west)"></exit>
+	<exit lat="34.036456" lon="-118.375780" stop="Fairfax Avenue, Washington Boulevard"></exit>
+	<exit lat="34.033882" lon="-118.356856" stop="La Brea Avenue"></exit>
+	<exit lat="34.034739" lon="-118.337501" stop="Crenshaw Boulevard"></exit>
+	<exit lat="34.036089" lon=" -118.320843" stop="Arlington Avenue"></exit>
+	<exit lat="34.036662" lon="-118.316861" stop="Western Avenue, Normandie Avenue"></exit>
+	<exit lat="34.036616" lon=" -118.286537" stop="Hoover Street, Vermont Avenue"></exit>
+	<exit lat="34.036616" lon=" -118.286537" stop="Hoover Street"></exit>
+	<exit lat="34.036796" lon="-118.286159" stop="I-110 south (Harbor Freeway) / SR 110 north (Harbor Freeway) / Pico Boulevard – San Pedro, Pasadena, Downtown Los   Angeles"></exit>
+	<exit lat="34.032481" lon="-118.263612" stop="Maple Avenue"></exit>
+	<exit lat="34.032415" lon="-118.263606" stop="Los Angeles Street – Convention Center"></exit>
+	<exit lat="34.029874" lon=" -118.256853" stop="San Pedro Street"></exit>
+	<exit lat="34.034324" lon="-118.266572" stop="Central Avenue"></exit>
+	<exit lat="34.023581" lon="-118.242734" stop="Alameda Street"></exit>
+	<exit lat="34.025796" lon="-118.236321" stop="Mateo Street, Santa Fe Avenue"></exit>
+	<exit lat="34.028728" lon="-118.227537" stop="I-5 south (Santa Ana Freeway) / SR 60 east (Pomona Freeway) – Santa Ana, Pomona"></exit>
+	<exit lat="34.034200" lon="-118.221913" stop="Boyle Avenue"></exit>
+	<exit lat="34.046043" lon="-118.215339" stop="Fourth Street"></exit>
+	<exit lat="34.053053" lon="-118.214486" stop="I-5 north (Golden State Freeway) – Sacramento"></exit>
+	<exit lat="34.055587" lon="-118.197574" stop="Soto Street"></exit>
+	<exit lat="34.055604" lon="-118.184322" stop="City Terrace Drive"></exit>
+	<exit lat="34.058691" lon="-118.177351" stop="Eastern Avenue"></exit>
+</root>
+

@@ -1,0 +1,8 @@
+Testing README
+
+The following classes have testing code integrated, and are EXCLUDED from the build path. 
+You must copy them into "project.projectfiles" package in order to run each test.
+
+Protip: 
+To distinguish between test outputs, it is recommended that you save the version without testing code 
+to a save place, and only run one test at a time.

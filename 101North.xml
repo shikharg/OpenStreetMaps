@@ -1,0 +1,48 @@
+<root>
+	<exit lat="34.02560560439752" lon="-118.20610597729683" stop="I-5 south (Santa Ana Freeway) – Santa Ana"></exit>
+	<exit lat="34.04109614854208" lon="-118.22126045823097" stop="Fourth Street"></exit>
+	<exit lat="34.045672308394295" lon="-118.22103783488274" stop="First Street"></exit>
+	<exit lat="34.04985708930202" lon="-118.22247013449669" stop="Cesar Chavez Avenue"></exit>
+	<exit lat="34.0534327687164" lon="-118.23052279651165" stop="Vignes Street"></exit>
+	<exit lat="34.053932774017646" lon="-118.23495045304298" stop="Alameda Street – Union Station"></exit>
+	<exit lat="34.05643275628624" lon="-118.24142530560493" stop="Spring Street"></exit>
+	<exit lat="34.05851490746194" lon="-118.2445715367794" stop="Grand Avenue, Temple Street"></exit>
+	<exit lat="34.05851490746194" lon="-118.2445715367794" stop="SR 110 north (Pasadena Freeway) / I-110 south (Harbor Freeway) –Pasadena, San Pedro"></exit>
+	<exit lat="34.06876270115537" lon="-118.2582400739193" stop="Glendale Boulevard, Echo Park Avenue, Union Avenue, Belmont Avenue"></exit>
+	<exit lat="34.071157822030806" lon="-118.26465860009193" stop="SR 2 east (Alvarado Street)"></exit>
+	<exit lat="34.07441267831724" lon="-118.27201589941978" stop="Rampart Boulevard, Benton Way"></exit>
+	<exit lat="34.076487722776285" lon="-118.27854439616203" stop="Silver Lake Boulevard"></exit>
+	<exit lat="34.07909145397221" lon="-118.28943148255348" stop="Vermont Avenue"></exit>
+	<exit lat="34.08207276118474" lon="-118.29549863934517" stop="Melrose Avenue, Normandie Avenue"></exit>
+	<exit lat="34.08844600854346" lon="-118.30486759543419" stop="SR 2 west (Santa Monica Boulevard) / Western Avenue"></exit>
+	<exit lat="34.097532998562855" lon="-118.31398978829384" stop="Sunset Boulevard"></exit>
+	<exit lat="34.09870350787059" lon="-118.31474617123604" stop="Hollywood Boulevard"></exit>
+	<exit lat="34.10408719798242" lon="-118.31975117325783" stop="Gower Street"></exit>
+	<exit lat="34.10670673683935" lon="-118.32850657403469" stop="Cahuenga Boulevard – Hollywood Bowl"></exit>
+	<exit lat="34.109459441652625" lon="-118.333103209733963" stop="Highland Avenue (SR 170 south) – Hollywood Bowl"></exit>
+	<exit lat="34.12212916780053" lon="-118.34028147161007" stop="Barham Boulevard – Burbank"></exit>
+	<exit lat="34.129486308564914" lon="-118.34755226969719" stop="Universal Studios Boulevard"></exit>
+	<exit lat="34.13631776241916" lon="-118.36066290736198" stop="Lankershim Boulevard – Universal City"></exit>
+	<exit lat="34.13818260675327" lon="-118.36326733231544" stop="Ventura Boulevard"></exit>
+	<exit lat="34.145261980375246" lon="-118.36828842759132" stop="Vineland Avenue"></exit>
+	<exit lat="34.1491865703665" lon="-118.37318882346153" stop="SR 170 north (Hollywood Freeway) – Sacramento"></exit>
+	<exit lat="34.154583" lon="-118.393055" stop="Laurel Canyon Boulevard – Studio City"></exit>
+	<exit lat="34.156847" lon="-118.41109" stop="Coldwater Canyon Avenue"></exit>
+	<exit lat="34.155772" lon="-118.428202" stop="Woodman Avenue"></exit>
+	<exit lat="34.155976" lon="-118.446077" stop="Van Nuys Boulevard"></exit>
+	<exit lat="34.159634" lon="-118.462062" stop="Sepulveda Boulevard"></exit>
+	<exit lat="34.159554" lon="-118.463715" stop="I-405 (San Diego Freeway) – Santa Monica, Sacramento"></exit>
+	<exit lat="34.16465" lon="-118.473199" stop="Haskell Avenue"></exit>
+	<exit lat="34.165351" lon="-118.489625" stop="Hayvenhurst Avenue"></exit>
+	<exit lat="34.168396" lon="-118.497403" stop="Balboa Boulevard – Encino"></exit>
+	<exit lat="34.171299" lon="-118.515449" stop="White Oak Avenue"></exit>
+	<exit lat="34.172409" lon="-118.532701" stop="Reseda Boulevard"></exit>
+	<exit lat="34.17366" lon="-118.55094" stop="Tampa Avenue"></exit>
+	<exit lat="34.173021" lon="-118.568053" stop="Winnetka Avenue – Woodland Hills"></exit>
+	<exit lat="34.168165" lon="-118.584124" stop="De Soto Avenue, Serrania Avenue"></exit>
+	<exit lat="34.169231" lon="-118.595089" stop="Canoga Avenue"></exit>
+	<exit lat="34.170411" lon="-118.602814" stop="SR 27 (Topanga Canyon Boulevard) / Ventura Boulevard"></exit>
+	<exit lat="34.170216" lon="-118.610753" stop="Shoup Avenue"></exit>
+	<exit lat="34.162626" lon="-118.629089" stop="Woodlake Avenue"></exit>
+	<exit lat="34.160788" lon="-118.634207" stop="Mulholland Drive, Valley Circle Boulevard"></exit>
+</root>

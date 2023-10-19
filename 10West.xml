@@ -1,0 +1,35 @@
+<root>
+
+	<exit lat="34.014590" lon="-118.486370" stop="4th Street, 5th Street"></exit>
+	<exit lat="34.017157" lon="-118.482479" stop="SR 1 south (Lincoln Boulevard) to SR 2 east"></exit>
+	<exit lat="34.025913" lon="-118.464353" stop="Cloverfield Boulevard"></exit>
+	<exit lat="34.027814" lon="-118.452821" stop="Centinela Avenue:"></exit>
+	<exit lat="34.031756" lon="-118.430250" stop="I-405 (San Diego Freeway) – Sacramento, LAX Airport, Long Beach"></exit>
+	<exit lat="34.031736" lon="-118.414077" stop="National Boulevard, Overland Avenue"></exit>
+	<exit lat="34.033458" lon="-118.386786" stop="Robertson Boulevard – Culver City"></exit>
+	<exit lat="34.034913" lon="-118.367582" stop="La Cienega Boulevard, Venice Boulevard (SR 187 west)"></exit>
+	<exit lat="34.034352" lon="-118.364728" stop="Fairfax Avenue, Washington Boulevard"></exit>
+	<exit lat="34.034682" lon="-118.344261" stop="La Brea Avenue"></exit>
+	<exit lat="34.035352" lon=" -118.329132" stop="Crenshaw Boulevard"></exit>
+	<exit lat="34.037285" lon=" -118.309862" stop="Arlington Avenue"></exit>
+	<exit lat="34.037089" lon="-118.295382" stop="Western Avenue, Normandie Avenue"></exit>
+	<exit lat="34.037203" lon="-118.288597" stop="Hoover Street, Vermont Avenue"></exit>
+	<exit lat="34.038109" lon="-118.275780" stop="I-110 south (Harbor Freeway) / SR 110 north (Harbor Freeway) / Pico Boulevard – San Pedro, Pasadena, Downtown Los   Angeles"></exit>
+	<exit lat="34.034337" lon=" -118.266481" stop="Grand Avenue"></exit>
+	<exit lat="34.031003" lon="-118.258776" stop="Maple Avenue"></exit>
+	<exit lat="34.030939" lon="-118.258810" stop="Los Angeles Street – Convention Center"></exit>
+	<exit lat="34.026642" lon="-118.250395" stop="San Pedro Street"></exit>
+	<exit lat="34.023754" lon="-118.243304" stop="Central Avenue"></exit>
+	<exit lat="34.026270" lon="-118.235627" stop="Alameda Street"></exit>
+	<exit lat="34.029496" lon="-118.222997" stop="Mateo Street, Santa Fe Avenue"></exit>
+	<exit lat="34.028536" lon="-118.229613" stop="I-5 south (Santa Ana Freeway) / SR 60 east (Pomona Freeway) – Santa Ana, Pomona"></exit>
+	<exit lat="34.033938" lon="-118.220813" stop="Boyle Avenue"></exit>
+	<exit lat="34.041171" lon="-118.218225" stop="Fourth Street"></exit>
+	<exit lat="34.047545" lon="-118.214427" stop="Cesar Chavez Avenue"></exit>
+	<exit lat="34.053116" lon=" -118.213692" stop="I-5 north (Golden State Freeway) – Sacramento"></exit>
+	<exit lat="34.056291" lon="-118.212657" stop="US 101 north (Santa Ana Freeway via San Bernardino Freeway) – Los Angeles, Hollywood"></exit>
+	<exit lat="34.054612" lon=" -118.209656" stop="State Street"></exit>
+
+	<exit lat="34.168396" lon="-118.497403" stop="City Terrace Drive"></exit>
+	<exit lat="34.061477" lon="-118.166155" stop="Eastern Avenue"></exit>
+</root>

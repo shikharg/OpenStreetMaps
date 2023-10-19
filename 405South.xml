@@ -1,0 +1,26 @@
+<root>
+<exit lat="34.28328" lon="-118.468816" stop = "Rinaldi Street - Mission Hills"></exit>
+<exit lat="34.268776" lon="-118.472271" stop="SR 118 (Ronald Reagan Freeway) - Simi Valley"></exit>
+<exit lat="34.265052" lon="-118.472335" stop="Devonshire Street - Granada Hills"></exit>
+<exit lat="34.238803" lon="-118.473151" stop="Nordhoff Street"></exit>
+<exit lat="34.22477" lon="-118.473301" stop="Roscoe Boulevard - Panorama City"></exit>
+<exit lat="34.205571" lon="-118.473494" stop="Haskell Avenue/Sherman Way"></exit>
+<exit lat="34.192029" lon="-118.474374" stop="Haskell Avenue/Victory Boulevard - Van Nuys"></exit>
+<exit lat="34.176888" lon="-118.46843" stop="Burbank Boulevard"></exit>
+<exit lat="34.165935" lon="-118.469675" stop="US 101 (Ventura Freeway) - Ventura, Los Angeles"></exit>
+<exit lat="34.156862" lon="-118.469095" stop="Ventura Boulevard"></exit>
+<exit lat = "34.149759" lon="-118.468881" stop="Sepulveda Boulevard, Valley Vista Boulevard"></exit>
+<exit lat="34.100378" lon="-118.478086" stop="Sepulveda Boulevard, Getty Center Drive"></exit>
+<exit lat="34.074983" lon="-118.468473" stop="Church Lane, Sunset Boulevard, Montana Avenue"></exit>
+<exit lat="34.060905" lon="-118.4565" stop="Wilshire Boulevard"></exit>
+<exit lat="34.050168" lon="-118.449054" stop="SR 2 (Santa Monica Boulevard)"></exit>
+<exit lat="34.03886" lon="-118.439934" stop="Sawtelle Boulevard/Olympic Boulevard, Pico Boulevard"></exit>
+<exit lat="34.036886" lon="-118.438776" stop="I-10 (Santa Monica Freeway) - Santa Monica, Los Angeles"></exit>
+<exit lat="34.01149" lon="-118.41809" stop="Sawtelle Boulevard/Venice Boulevard (SR 187), Washington Boulevard"></exit>
+<exit lat="34.005763" lon="-118.413584" stop="Sawtelle Boulevard/Culver Boulevard, Washington Boulevard - Culver City"></exit>
+<exit lat="33.992278" lon="-118.402898" stop="SR 90 west (Marina Freeway) - Marina del Rey"></exit>
+<exit lat="33.98977" lon="-118.40086" stop="Jefferson Boulevard"></exit>
+<exit lat="33.978703" lon="-118.391783" stop="Howard Hughes Parkway, Sepulveda Boulevard"></exit>
+<exit lat="33.973703" lon="-118.381634" stop="La Tijera Boulevard"></exit>
+<exit lat="33.968613" lon="-118.37245" stop="Manchester Boulevard, La Cienega Boulevard, Florence Avenue"></exit>
+</root>

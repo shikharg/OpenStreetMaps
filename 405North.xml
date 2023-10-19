@@ -1,0 +1,29 @@
+<root>
+<exit lat="33.957009" lon="-118.36921" stop="Manchester Boulevard, La Cienega Boulevard, Florence Avenue"></exit>
+<exit lat="33.970375" lon="-118.374746" stop="La Tijera Boulevard"></exit>
+<exit lat="33.972848" lon="-118.379595" stop="Howard Hughes Parkway, Sepulveda Boulevard"></exit>
+<exit lat="33.983098" lon="-118.395281" stop="SR 90 west (Marina Freeway) - Marina del Rey"></exit>
+<exit lat="33.984824" lon="-118.396654" stop="Jefferson Boulevard"></exit>
+<exit lat="33.999554" lon="-118.408263" stop="Culver Boulevard, Washington Boulevard - Culver City"></exit>
+<exit lat="34.009" lon="-118.415666" stop="Sepulveda Boulevard/Venice Boulevard (SR 187), Washington Boulevard"></exit>
+<exit lat="34.024562" lon="-118.428004" stop="National Boulevard"></exit>
+<exit lat="34.025345" lon="-118.428669" stop="I-10 (Santa Monica Freeway) - Santa Monica, Los Angeles"></exit>
+<exit lat="34.043163" lon="-118.443217" stop="SR 2 (Santa Monica Boulevard)"></exit>
+<exit lat="34.052426" lon="-118.449461" stop="Wilshire Boulevard"></exit>
+<exit lat="34.069526" lon="-118.463581" stop="Sunset Boulevard"></exit>
+<exit lat="34.076103" lon="-118.468945" stop="Moraga Drive"></exit>
+<exit lat="34.092275" lon="-118.475704" stop="Sepulveda Boulevard, Getty Center Drive"></exit>
+<exit lat="34.121235" lon="-118.479524" stop="Mulholland Drive, Skirball Center Drive"></exit>
+<exit lat="34.149705" lon="-118.468494" stop="Ventura Boulevard, Sepulveda Boulevard, Valley Vista Boulevard"></exit>
+<exit lat="34.154518" lon="-118.468001" stop="US 101 (Ventura Freeway) - Ventura, Los Angeles"></exit>
+<exit lat="34.169308" lon="-118.467872" stop="Burbank Boulevard"></exit>
+<exit lat="34.185995" lon="-118.473923" stop="Victory Boulevard - Van Nuys"></exit>
+<exit lat="34.197833" lon="-118.47403" stop="Sherman Way"></exit>
+<exit lat="34.217744" lon="-118.473043" stop="Roscoe Boulevard - Panorama City"></exit>
+<exit lat="34.232416" lon="-118.472958" stop="Nordhoff Street"></exit>
+<exit lat="34.254074" lon="-118.472056" stop="Devonshire Street - Granada Hills"></exit>
+<exit lat="34.2592" lon="-118.472121" stop="SR 118 (Ronald Reagan Freeway) - Simi Valley"></exit>
+<exit lat="34.267819" lon="-118.471949" stop="San Fernando Mission Boulevard - San Fernando"></exit>
+<exit lat="34.276064" lon="-118.470597" stop="Sepulveda Boulevard/Rinaldi Street - Mission Hills"></exit>
+<exit lat="34.296878" lon="-118.473108" stop="I-5 north (Golden State Freeway) - Sacramento"></exit>
+</root>
